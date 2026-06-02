@@ -67,3 +67,8 @@ __pycache__/
 *.pt
 *.pth
 *.safetensors
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
