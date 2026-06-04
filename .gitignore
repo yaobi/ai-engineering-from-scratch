@@ -72,3 +72,9 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# Data and model artifacts
+data/
+models/
+*.bin
+*.onnx
