@@ -78,3 +78,7 @@ data/
 models/
 *.bin
 *.onnx
+
+# Training logs
+logs/
+*.log
